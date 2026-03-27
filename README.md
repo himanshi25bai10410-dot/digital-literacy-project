@@ -41,7 +41,27 @@ This project demonstrates digital literacy skills through five tasks: creating a
 
 ## Task 4 – Professional Email & Etiquette Guide
 
-- **Part A – Professional Emails:** Drafted two formal emails—one requesting an assignment extension from a professor and another expressing interest in a summer internship opportunity. Both emails follow proper subject line, greeting, body, and sign-off format.  
+- **Part A – Emails:** Drafted two professional emails: one requesting an assignment extension from a professor and another expressing interest in a summer internship opportunity.  
+- **Files:**  
+  - `task-4-email-etiquette/email1_assignment_extension.txt`  
+  - `task-4-email-etiquette/email2_internship_interest.txt`
+
+- **Part B – Social Media Checklist:** Created a list of 5 Do's and 5 Don'ts for responsible social media usage.  
+- **File:** `task-4-email-etiquette/social-media-checklist.txt`
+
+## Task 5 – Cybercrime Awareness Case Study & Prevention Guide
+
+- **Case Study:** Created a case study on cybercrime (e.g., phishing/UPI fraud), explaining what the crime is, how it occurs step-by-step, who is targeted, and its consequences.  
+
+- **File:** `task-5-cybercrime/casestudy.txt`
+
+- **Prevention Checklist:** Developed a "Stay Safe Online" checklist with actionable tips for students, including financial/UPI safety measures and reporting channels.  
+
+- **File:** `task-5-cybercrime/prevention-checklist.txt`
+
+- **Reporting Information:**  
+  - National Cyber Crime Portal: https://cybercrime.gov.in  
+  - Helpline Number: 1930
 
 - **Files:**  
   - `task-4-email-etiquette/email1_assignment_extension.txt`  
