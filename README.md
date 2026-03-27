@@ -19,3 +19,12 @@ This project demonstrates digital literacy skills through five tasks: creating a
 - **Files:** `task-1-presentation/infographic.png`
 - **Canva Link (optional):** [Click Here](https://www.canva.com/design/DAHE-PtCQlo/HbyDIAjfzfxTZlcjWEl6uw/edit?utm_content=DAHE-PtCQlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+ ## Task 2 – Student Digital Portfolio
+
+- **Platforms:** GitHub, LinkedIn, Kaggle  
+- **Description:** Created a student digital portfolio by setting up profiles on GitHub, LinkedIn, and Kaggle. Added basic details such as name, branch, year, and learning goals to build a professional online presence and track academic progress.  
+- **Files:**  
+  - `task-2-portfolio/github.png`  
+  - `task-2-portfolio/linkedin.png`  
+  - `task-2-portfolio/kaggle.png`
+
