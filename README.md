@@ -39,3 +39,15 @@ This project demonstrates digital literacy skills through five tasks: creating a
   - `task-3-platforms/sheet.png`  
 - **Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSeZwchSXcT9lH1_OFW0E0laL1MeYxWFEjOjCYVwHHS2AK19qg/viewform
 
+## Task 4 – Professional Email & Etiquette Guide
+
+- **Part A – Professional Emails:** Drafted two formal emails—one requesting an assignment extension from a professor and another expressing interest in a summer internship opportunity. Both emails follow proper subject line, greeting, body, and sign-off format.  
+
+- **Files:**  
+  - `task-4-email-etiquette/email1_assignment_extension.txt`  
+  - `task-4-email-etiquette/email2_internship_interest.txt`
+
+- **Part B – Social Media Do’s and Don’ts:** Created a checklist with 5 Do’s and 5 Don’ts for responsible and professional social media usage among students.  
+
+- **File:** `task-4-email-etiquette/social-media-checklist.txt`
+
