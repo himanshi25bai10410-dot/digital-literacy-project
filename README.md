@@ -27,4 +27,15 @@ This project demonstrates digital literacy skills through five tasks: creating a
   - `task-2-portfolio/github.png`  
   - `task-2-portfolio/linkedin.png`  
   - `task-2-portfolio/kaggle.png`
+ 
+ ## Task 3 – Coding & Collaboration Platforms
+
+- **Part A – Coding Practice:** Completed a beginner-level challenge on HackerRank to understand coding basics and problem-solving skills.  
+- **Files:** `task-3-platforms/hackerrank.png`
+
+- **Part B – Google Workspace Collaboration:** Created a 5-question "Digital Literacy Awareness Quiz" using Google Forms and linked responses to Google Sheets for data collection and analysis.  
+- **Files:**  
+  - `task-3-platforms/form.png`  
+  - `task-3-platforms/sheet.png`  
+- **Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSeZwchSXcT9lH1_OFW0E0laL1MeYxWFEjOjCYVwHHS2AK19qg/viewform
 
